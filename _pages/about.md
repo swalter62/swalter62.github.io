@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.univ-nantes.fr/scott-walter'>Faculté des sciences et techniques</a>, Nantes Université. <a href='https://sciences-techniques.univ-nantes.fr/presentation/departements-et-services-pedagogiques/histoire-des-sciences'>Service Histoire des sciences.</a> <a href='https://lettreslangages.univ-nantes.fr/fr/recherche/ea-7463-centre-atlantique-de-philosophie'>UR 7463 Centre Atlantique de Philosophie</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sw-briault-2008.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bât. 3, bureau 54</p>
+    <p>2 chemin de la Houssinière BP 92 208</p>
+    <p>44322 Nantes CEDEX 3</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,8 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My studies focus on the history and philosophy of the physical and
+mathematical sciences from 1800 to 2000. As founder and
+editor of the
+[Henri Poincaré Papers](https://henripoincarepapers.univ-nantes.fr)
+website, I led collaborations in the
+edition of Poincaré’s correspondence with physicists, chemists, and
+engineers
+([Birkhäuser](http://www.springer.com/birkhauser/historyofscience/book/978-3-7643-7136-4),
+2007), and with astronomers and geodesists
+([Birkhäuser](http://www.springer.com/us/book/9783764371678),
+2016). I am a member of the Atlantic Center for Philosophy
+([CAPhi](https://www.caphi-philo.fr/)), where I pursue
+projects in the history of celestial mechanics,
+astrophysics, relativity and quantum mechanics in the early 20th century.
+I lecture on these and
+related topics at
+[Nantes University](https://english.univ-nantes.fr/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

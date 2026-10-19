@@ -1,10 +1,12 @@
 github_users:
+  - swalter62
   - torvalds
-  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
+  - swalter62/sw-folio
+  - swalter62/LaTeXML
   - alshedivat/al-folio
   - jekyll/jekyll
   - twbs/bootstrap
