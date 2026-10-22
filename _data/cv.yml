@@ -42,73 +42,32 @@ cv:
           - Member of the Atlantic Center for Philosophy (CAPhi)
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: French National Committee for History and Philosophy of Science and Technology
+        position: General Secretary
+        location: Paris, France
+        start_date: 2024-10-23
+        end_date: 2028-10-23
+        summary: Representing France in organs of the IUHPST, and supporting participation of France-based scholars in congresses of the DHST and the DLMPST.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Member of the committee charged with the organization of the 2029 ICHST in Paris, France."
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: The Poincaré pear and Poincaré-Darwin fission theory in astrophysics, 1885-1901
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+          - Scott A. Walter
+        publisher: Philosophia Scientiae
+        releaseDate: 2023-10-27
+        url: https://doi.org/10.4000/philosophiascientiae.4178
+        summary: In the early 1880s, Henri Poincaré discovered a new equilibrium figure for uniformly-rotating fluid masses – the pear, or piriform figure – and speculated that in certain circumstances the pear splits into two unequal parts, and provides thereby a model for the origin of binary stars. The contemporary emergence of photometric and spectroscopic studies of variable stars fueled the first models of eclipsing binaries, and provided empirical support for a realist view of equilibrium figures – including the pear – in the cosmic realm. The paper reviews astrophysical interpretation of the Poincaré pear and the Poincaré-Darwin fission hypothesis with respect to research on variable stars from 1885 to 1901.
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
+      - name: French
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: History and philosophy of the mathematical sciences
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        keywords: "Relativity, Quantum Mechanics, Astrophysics, Systems Dynamics"
