@@ -35,11 +35,20 @@ cv:
       - company: Nantes University
         position: Professor of Epistemology
         location: Nantes, France
-        start_date: 1915
+        start_date: 2015
         end_date: 
         summary: History of Science Service, Faculty of Science and Technology
         highlights:
           - Member of the Atlantic Center for Philosophy (CAPhi)
+
+      - company: Lorraine University
+        position: Associate Professor
+        location: Nancy, France
+        start_date: 1999
+        end_date: 2015
+        summary: Philosophy Department, Faculty of Letters
+        highlights:
+          - Founding Member of the Henri-Poincaré Archives (UMR 7117, CNRS)
 
     Volunteer:
       - company: French National Committee for History and Philosophy of Science and Technology
