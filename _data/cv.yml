@@ -1,6 +1,6 @@
 cv:
   name: Scott A. Walter
-  label: Historian
+  label: Science Historian
   email: scott.walter@univ-nantes.fr
   location: Nantes, France
   image: ""
@@ -31,15 +31,16 @@ cv:
         score: ""
         courses: "Hermann Minkowski et la mathématisation de la théorie de la relativité restreinte, 1905-1915"
 
-    Experience:
+    Academic Positions:
       - company: Nantes University
         position: Professor of Epistemology
         location: Nantes, France
+        url: https://www.univ-nantes.fr/scott-walter
         start_date: 2015
         end_date: 
         summary: History of Science Service, Faculty of Science and Technology
         highlights:
-          - Member of the Atlantic Center for Philosophy (CAPhi)
+          - Member of the Atlantic Center for Philosophy (CAPhi, UR 7463)
 
       - company: Lorraine University
         position: Associate Professor
@@ -48,7 +49,7 @@ cv:
         end_date: 2015
         summary: Philosophy Department, Faculty of Letters
         highlights:
-          - Founding Member of the Henri-Poincaré Archives (UMR 7117, CNRS)
+          - Founding Member of the Henri-Poincaré Archives (CNRS, UMR 7117)
 
     Volunteer:
       - company: French National Committee for History and Philosophy of Science and Technology
@@ -58,7 +59,7 @@ cv:
         end_date: 2028-10-23
         summary: Representing France in organs of the IUHPST, and supporting participation of France-based scholars in congresses of the DHST and the DLMPST.
         highlights:
-          - "Member of the committee charged with the organization of the 2029 ICHST in Paris, France."
+          - Member of the committee charged with the organization of the 2029 ICHST in Paris, France
 
     Publications:
       - title: The Poincaré pear and Poincaré-Darwin fission theory in astrophysics, 1885-1901
@@ -67,7 +68,7 @@ cv:
         publisher: Philosophia Scientiae
         releaseDate: 2023-10-27
         url: https://doi.org/10.4000/philosophiascientiae.4178
-        summary: In the early 1880s, Henri Poincaré discovered a new equilibrium figure for uniformly-rotating fluid masses – the pear, or piriform figure – and speculated that in certain circumstances the pear splits into two unequal parts, and provides thereby a model for the origin of binary stars. The contemporary emergence of photometric and spectroscopic studies of variable stars fueled the first models of eclipsing binaries, and provided empirical support for a realist view of equilibrium figures – including the pear – in the cosmic realm. The paper reviews astrophysical interpretation of the Poincaré pear and the Poincaré-Darwin fission hypothesis with respect to research on variable stars from 1885 to 1901.
+        summary: The paper reviews astrophysical interpretation of the Poincaré pear and the Poincaré-Darwin fission hypothesis with respect to research on variable stars from 1885 to 1901.
 
     Languages:
       - name: English
