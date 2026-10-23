@@ -19,9 +19,8 @@ apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL)
 
 url: https://swalter62.github.io # the base hostname & protocol for your site
 #url: http://www.sw-folio.org # local
-#baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+#baseurl: /sw-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 baseurl:
-#baseurl: /sw-folio/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
