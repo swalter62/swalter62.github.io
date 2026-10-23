@@ -15,7 +15,6 @@ cv:
   address:
     street: 2 chemin de la Houssinière
     city: Nantes
-    region: Loire-Atlantique
     postalCode: 44322 Cedex 3
     countryCode: FR
 
@@ -31,7 +30,7 @@ cv:
         score: ""
         courses: "Hermann Minkowski et la mathématisation de la théorie de la relativité restreinte, 1905-1915"
 
-    Academic Positions:
+    Experience:
       - company: Nantes University
         position: Professor of Epistemology
         location: Nantes, France
