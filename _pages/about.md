@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.univ-nantes.fr/scott-walter'>Faculté des sciences et techniques</a>, Nantes Université. <a href='https://sciences-techniques.univ-nantes.fr/presentation/departements-et-services-pedagogiques/histoire-des-sciences'>Service Histoire des sciences.</a> <a href='https://lettreslangages.univ-nantes.fr/fr/recherche/ea-7463-centre-atlantique-de-philosophie'>UR 7463 Centre Atlantique de Philosophie</a> email: scott dot walter at univ-nantes dot fr
+subtitle: <a href='https://www.univ-nantes.fr/scott-walter'>Faculté des sciences et techniques</a>, Nantes Université. <a href='https://sciences-techniques.univ-nantes.fr/presentation/departements-et-services-pedagogiques/histoire-des-sciences'>Service Histoire des sciences.</a> <a href='https://lettreslangages.univ-nantes.fr/fr/recherche/ea-7463-centre-atlantique-de-philosophie'>UR 7463 Centre Atlantique de Philosophie</a>
 
 profile:
   align: right
